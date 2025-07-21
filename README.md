@@ -25,7 +25,7 @@ This project explores the growth and trends of Electric Vehicles (EVs) globally 
 
 ## 🛠 Tools Used
 
-- **SQL** – For data cleaning, transformation, and analysis
+
 - **Power BI** – For interactive dashboard and data visualization
 - **Excel/CSV** – Raw data from IEA Global EV dataset
 
